@@ -115,7 +115,7 @@ pip install pandas matplotlib psycopg2 psycopg2-binary google-generativeai googl
 ## 3. Crie o banco de dados
 
 ```sql
-CREATE DATABASE bd_trabalhofinal;
+CREATE DATABASE BD_TrabalhoFinal;
 ```
 
 ---
@@ -172,7 +172,7 @@ Entre as funcionalidades disponíveis estão:
 ```text
 📦 SGDSB
 │
-├── images
+├── img
 │   ├── modelo-conceitual.png
 │   ├── modelo-logico.png
 ├── crud.py
