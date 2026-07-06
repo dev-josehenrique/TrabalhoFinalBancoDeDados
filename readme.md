@@ -131,7 +131,7 @@ user="postgres"
 password="sua_senha"
 host="localhost"
 port="5432"
-database="bd_trabalhofinal"
+database="BD_TrabalhoFinal"
 ```
 
 ---
@@ -170,7 +170,7 @@ Entre as funcionalidades disponíveis estão:
 # 📁 Estrutura do Projeto
 
 ```text
-📦 SGDSB
+📦 BD_TrabalhoFinal
 │
 ├── img
 │   ├── modelo-conceitual.png
