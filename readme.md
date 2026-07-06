@@ -74,7 +74,7 @@ A modelagem foi desenvolvida utilizando os conceitos de Modelagem Conceitual e M
 ## Modelo Conceitual
 
 <p align="center">
-    <img src="images/modelo-conceitual.png" width="900">
+    <img src="imagens/modelo-conceitual.png" width="900">
 </p>
 
 ---
@@ -82,7 +82,7 @@ A modelagem foi desenvolvida utilizando os conceitos de Modelagem Conceitual e M
 ## Modelo Lógico
 
 <p align="center">
-    <img src="images/modelo-logico.png" width="900">
+    <img src="imagens/modelo-conceitual.png" width="900">
 </p>
 
 ---
